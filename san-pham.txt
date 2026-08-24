@@ -1,2 +1,6 @@
 Tinh nang A - phien ban 1
+ HEAD
 Tinh nang B do dong nghiep code
+
+Tinh nang C do toi code
+ b3262da (feat: bo sung tinh nang C)
